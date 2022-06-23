@@ -1,4 +1,5 @@
 # Website homepage path: /src/index.html
+# https://hc434013.github.io/
 ## Specific Documentation Paths
 + Comparison of 2 competing websites: /doc/design/real-world-design-comparison.md
 + Stakeholder Overview: /doc/design/stakeholders-developers.md
